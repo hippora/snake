@@ -10,4 +10,7 @@ Snake
 	
 ### 运行方法
 	双击main.py
+	
+### 截图
+![python snake](snake.png)
 
